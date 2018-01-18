@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/TOS/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://gobingiri.github.io/TOS/" # the base hostname & protocol for your site
+url: "https://gobingiri.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
